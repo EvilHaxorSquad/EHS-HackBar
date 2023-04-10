@@ -22,15 +22,15 @@
 <br>
 <p align="center"> <a href="#"><img title="GHHC" src="https://user-images.githubusercontent.com/80751079/119229684-f3efac00-bb3a-11eb-8c51-47b553aa3fc4.png" height="250" width="250"></a></p>
 <br>
-<b><a href="https://ghhcommunity.github.io/GHHC-HACKBAR/GHHC-HACKBAR.apk">EHS HackBar</a></b> is a Web Penetration tool built for Android Devices where you can perform basic SQL Injection, Local File Inclusion(LFI) flaws, Cross Site Scripting, Shell Uploading, Defacement & many more.
-It is a Modified Version of Anon HackBar which was developed by MasterJeo and got Modified by <b><a href="https://www.facebook.com/ElvisRahman/">Elvis Rahman</a></> of <b><a href="https://www.facebook.com/GHH.Community/">Gray Hat Hacker's Community(GHHC)</a></b>.
+<b><a href="https://evilhaxorsquad.github.io/EHS-HackBar/EHS-HackBar.apk">EHS HackBar</a></b> is a Web Penetration tool built for Android Devices where you can perform basic SQL Injection, Local File Inclusion(LFI) flaws, Cross Site Scripting, Shell Uploading, Defacement & many more.
+It is a Modified Version of Anon HackBar which was developed by MasterJeo and got Modified by <b><a href="https://www.facebook.com/ElvisRahman/">Elvis Rahman</a></> of <b><a href="https://www.facebook.com/EvilHaxorSquad/">Evil Haxor Squad (EHS)</a></b>.
 <br>
 
 ### Key Features
 
 * ➤ Replaced some of the normal DIOS(Dump In One Shot) with some pretty useful & heavy ones.
 
-* ➤ Added GHHC's Personal DIOS
+* ➤ Added EHHS's Personal DIOS
 
 * ➤ UI Changed
 
